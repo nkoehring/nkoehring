@@ -2,7 +2,7 @@
 
 Hi there! I am a programmer, OpenSource enthusiast and hacker based in Berlin, Germany. 
 
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=nkoehring&show_icons=true&count_private=true&include_all_commits=true&theme=one_dark_pro" alt="Contributions" /><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkoehring&size_weight=0.5&count_weight=0.5&hide=php,html,css&layout=compact&theme=one_dark_pro" alt="top languages" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=nkoehring&show_icons=true&count_private=true&include_all_commits=true&theme=one_dark_pro" alt="Contributions" /><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkoehring&size_weight=0.5&count_weight=0.5&hide=php,html,css&layout=donut&theme=one_dark_pro" alt="top languages" />
 
 
 ### Where to find me
